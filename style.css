@@ -1,0 +1,28 @@
+h1{ 
+    font-family: 'Courier New', Courier, monospace;}
+
+body{
+background-color: #F5EDDC;
+margin: 0;
+
+}
+p{
+    
+    width: 50%;
+    margin: 0px 40px;
+
+}
+hr{
+    border: dotted #11999E 6px;
+    border-bottom: none;
+    width: 4%;
+  }
+.code{
+    width:100%;
+  }
+/* .up{
+    background-color: #F5EDDC;
+    position: relative;
+    padding: 10px 40px;
+    
+    } */
