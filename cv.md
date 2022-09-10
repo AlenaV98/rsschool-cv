@@ -51,7 +51,7 @@ else{
 loveCalaulator();
 ```
 ###_Work experience:_
-trying to get it as soon as possible
+Trying to get it as soon as possible
 
 ###_Education and courses:_
 [Since I have only recently started studying](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/18125181#questions)
